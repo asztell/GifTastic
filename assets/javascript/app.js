@@ -51,7 +51,6 @@ $('#buttons_display').on('click', '.topic', function() {
 			var rating = response.data[i].rating;
 
 			$('<h4>').html('Rating: '+rating)
-					// .css({width: '10px', margin: 0})
 					.appendTo(latest_div);
 
 			var imageUrl = response.data[i].images.fixed_width.url;
