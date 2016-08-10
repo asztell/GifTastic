@@ -1,0 +1,14 @@
+#gifs_display {
+	padding-bottom: 15px;
+	min-height: 245px;
+}
+
+#buttons_display {
+	padding-right: 0;
+	padding-bottom: 0;
+}
+
+.topic {
+	margin-right: 19px;
+	margin-bottom: 19px;
+}
